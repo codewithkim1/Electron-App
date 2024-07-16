@@ -25,8 +25,13 @@ Installation
 ### Clone the repository
 
 ```bash
-git clone https://github.com/codewithkim1/electron-app.git
+git clone git@github.com:codewithkim1/Electron-App.git
 
+cd Electron-App
+```
+### Navigate into the directory
+
+```bash
 cd Electron-App
 ```
 
@@ -42,6 +47,6 @@ To start the Electron application, run the following command
 npm start 
 ```
 
-## Screenshots
+## Screenshot
 
 ![App Screenshot](/electronapp.png)
