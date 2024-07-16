@@ -13,14 +13,17 @@ This project is a simple Electron application that creates a desktop window and 
 ```
 
 ## Features
-Create Window: Initializes a browser window with specified dimensions (800x600).
-Load URL: Loads a remote URL (http://google.com) into the created window.
-Cross-Platform: Handles window behavior for different platforms (e.g., macOS).
-Getting Started
-Prerequisites
-Node.js
-npm (Node Package Manager)
-Installation
+1. Create Window: Initializes a browser window with specified dimensions (800x600).
+2. Load URL: Loads a remote URL (http://google.com) into the created window.
+3. Cross-Platform: Handles window behavior for different platforms (e.g., macOS).
+   
+### Getting Started
+### Prerequisites
+
+- Node.js
+- npm (Node Package Manager)
+
+### Installation
 
 ### Clone the repository
 
